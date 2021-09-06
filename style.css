@@ -1,0 +1,57 @@
+#res{
+    font-style:solid;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration-style: double;
+    font-size: 40px;
+}
+.imageprop{
+    border-radius: 10px solid black;
+    box-shadow: black 0 0 10px;
+    
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(228, 28, 105);
+    margin: 10%;
+    border-style: solid;
+    
+}
+body{
+    background-color:#fafffe;
+    
+}
+#visi{
+    
+    padding: 10px;
+    background-color:hsla(195, 100%, 75%, 0.41);
+    opacity: 0.5;
+    border-radius: 10px;
+}
+#bg{
+    color: rgb(11, 44, 41);
+    font-size: 20px;
+}
+p,div{
+    font-size: 20px;
+    background-color: azure;
+}
+#misi{
+    
+    padding: 8px;
+    background-color:hsla(145, 100%, 75%, 0.51);
+    opacity: 0.5;
+    border-radius: 10px;
+}
+#bg1{
+    color:rgb(8, 247, 8);
+    font-size: 20px;
+}
+#demo{
+    background-color: rgb(114, 94, 133);
+    padding: 10%;
+    margin-right: 20%;
+    margin-left: 18%;
+    color: cornsilk;
+}
